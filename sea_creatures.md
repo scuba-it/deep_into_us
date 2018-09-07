@@ -1,8 +1,19 @@
 ---
 layout: page
-title: 바다 생물
+title: Sea Creatures
 permalink: /sea_creatures
 ---
+
+<!-- TOC -->
+
+- [어류도감](#어류도감)
+    - [App](#app)
+    - [Sites](#sites)
+    - [Video](#video)
+- [HandSignal](#handsignal)
+- [References](#references)
+
+<!-- /TOC -->
 
 ## 어류도감
 ### App
@@ -17,13 +28,15 @@ permalink: /sea_creatures
 * [Sea Slug Forum](http://www.seaslugforum.net) - 누디에 대한 전문 포럼
 
 ### Video
-* [![](https://img.youtube.com/vi/9-hOU2khW28/0.jpg)](https://www.youtube.com/watch?v=9-hOU2khW28)
+> [![](https://img.youtube.com/vi/9-hOU2khW28/0.jpg)](https://www.youtube.com/watch?v=9-hOU2khW28)
 
 ## HandSignal
 * 버디와 바다생물에 대한 수신호를 줌으로서 더 즐거운 다이빙이 될 수 있습니다.
-* [![](https://img.youtube.com/vi/Ztzp2Tphz7U/0.jpg)](https://www.youtube.com/watch?v=Ztzp2Tphz7U)
-* [![](http://img.youtube.com/vi/_UrGqpr8bOY/0.jpg)](http://www.youtube.com/watch?v=_UrGqpr8bOY)
+    > ![hand_signals_for_marine_animals](/assets/img/hand_signals_for_marine_animals.png){:class="img-responsive"}
     * [Scuba Diving Hand Signals for Identifying Marine Life](https://www.sportdiver.com/scuba-diving-hand-signals-shark-marine-life-turtle)
+        > [![](http://img.youtube.com/vi/_UrGqpr8bOY/0.jpg)](http://www.youtube.com/watch?v=_UrGqpr8bOY)
+    * Hand Signals for Underwater Animals - www.simplyscuba.com
+        > [![](https://img.youtube.com/vi/Ztzp2Tphz7U/0.jpg)](https://www.youtube.com/watch?v=Ztzp2Tphz7U)
 
 ## References
 * https://cafe.naver.com/in2theblue/17988
