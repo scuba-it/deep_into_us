@@ -9,3 +9,5 @@
    * 한국어 : https://jekyllrb-ko.github.io/
 ### Kramdown - github에서 사용하는 markdown
    * https://kramdown.gettalong.org/
+### github pages
+   * aowsome doc : http://jmcglone.com/guides/github-pages/
