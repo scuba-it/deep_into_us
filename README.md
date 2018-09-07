@@ -10,4 +10,4 @@
 ### Kramdown - github에서 사용하는 markdown
    * https://kramdown.gettalong.org/
 ### github pages
-   * aowsome doc : http://jmcglone.com/guides/github-pages/
+   * awesome doc : http://jmcglone.com/guides/github-pages/
