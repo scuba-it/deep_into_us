@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: 수온과 슈트
-permalink: /water_temp_suit
+tags: 수온 슈트
 ---
 <!-- TOC -->
 
