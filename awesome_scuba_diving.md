@@ -43,6 +43,8 @@ A curated list of Awesome Scuba Diving Resources [![Awesome](https://awesome.re/
 ### Media
 * [스쿠버넷](http://www.scubanet.kr/) - 월간 잡지 출간
 * [격월간 스쿠바다이버](http://www.scubamedia.co.kr/) - 2달 기준으로  잡지 출간
+* [Divein](https://www.divein.com/)
+* [ScubadiverLife](https://scubadiverlife.com/)
 
 ### Blogs
 * [텍라인](https://m.blog.naver.com/PostList.nhn?blogId=teclinekorea)
