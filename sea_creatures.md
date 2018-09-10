@@ -2,6 +2,7 @@
 layout: page
 title: Sea Creatures
 permalink: /sea_creatures
+order: 5
 ---
 
 <!-- TOC -->

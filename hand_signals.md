@@ -2,6 +2,7 @@
 layout: page
 title: Hand Signals
 permalink: /hand_signals
+order: 6
 ---
 * Common Scuba Diving Hand Signals
     > [![](http://img.youtube.com/vi/KRRvlTRWNsg/0.jpg)](http://www.youtube.com/watch?v=KRRvlTRWNsg "Common Scuba Diving Hand Signals")

@@ -2,6 +2,7 @@
 layout: page
 title: The 20 Basic Scuba Skills
 permalink: /padi/basic_20_skills
+order: 4
 ---
 
 <!-- TOC -->

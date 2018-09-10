@@ -2,6 +2,7 @@
 layout: page
 title: Awesome Scuba Diving
 permalink: /awesome-scuba-diving/
+order: 3
 ---
 
 A curated list of Awesome Scuba Diving Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
