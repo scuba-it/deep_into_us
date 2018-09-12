@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sea Creatures
-permalink: /sea_creatures
+permalink: /sea-creatures
 order: 5
 ---
 

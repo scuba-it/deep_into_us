@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hand Signals
-permalink: /hand_signals
+permalink: /hand-signals
 order: 6
 ---
 * Common Scuba Diving Hand Signals
