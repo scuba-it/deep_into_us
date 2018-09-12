@@ -13,3 +13,5 @@
    * awesome doc: http://jmcglone.com/guides/github-pages/
 ## 더 읽을 거리들
    * THEME 커스텀하기: http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
+## 사용한 THEME
+   * prologue https://github.com/chrisbobbe/jekyll-theme-prologue
