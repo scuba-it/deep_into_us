@@ -31,7 +31,11 @@ github_username:  chihunlee
 markdown: kramdown
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
-collections: [sections, readings]
+collections: 
+   articles:
+      output: true
+   sections:
+
 remote_theme: chrisbobbe/jekyll-theme-prologue
 # theme: minima
 plugins:
@@ -44,13 +48,13 @@ facebook_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
-github_url:
+github_url: https://github.com/scuba-it/deep_into_us
 pinterest_url:
 slack_url:
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
-google_analytics:
+google_analytics: UA-125570741-1
 
 
 
@@ -72,5 +76,4 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
 
