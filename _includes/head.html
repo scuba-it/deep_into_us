@@ -45,5 +45,19 @@
   <script src="{{- 'assets/js/util.js' | relative_url -}}" defer></script>
   <!--[if lte IE 8]><script src="{{- 'assets/js/ie/respond.min.js' | relative_url -}}" defer></script><![endif]-->
   <script src="{{- 'assets/js/main.js' | relative_url -}}" defer></script>
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vissense/0.10.0/vissense.min.js" defer onload="applyVideoVisibleAutoPlay()"></script>
+  <script>
+    function applyVideoVisibleAutoPlay() {
+      [...document.getElementsByTagName('video')].forEach(function(element) {
+        VisSense.VisMon.Builder(VisSense(element, { fullyvisible: 0.75 }))
+          .on('fullyvisible', function(monitor) { element.play();})
+          .on('hidden', function(monitor) { element.pause();})
+          .build()
+          .start();
+        element.defaultMuted = true
+        element.loop = true
+        element.controls = false
+      });
+    }
+  </script>
 </head>
