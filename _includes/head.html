@@ -60,15 +60,14 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vissense/0.10.0/vissense.min.js" defer onload="applyVideoVisibleAutoPlay()"></script>
   <script>
     function applyVideoVisibleAutoPlay() {
-      [...document.getElementsByTagName('video')].forEach(function(element) {
+      [...document.getElementsByClassName('autoplayable')].forEach(function(element) {
         VisSense.VisMon.Builder(VisSense(element, { fullyvisible: 0.75 }))
           .on('fullyvisible', function(monitor) { element.play();})
           .on('hidden', function(monitor) { element.pause();})
           .build()
           .start();
         element.defaultMuted = true
-        element.loop = true
-        element.controls = false
+        element.muted = true
       });
     }
   </script>
