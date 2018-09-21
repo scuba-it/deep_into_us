@@ -45,12 +45,18 @@
 
 ### github pages
 
-   * awesome doc: http://jmcglone.com/guides/github-pages/
+* awesome doc: http://jmcglone.com/guides/github-pages/
+
+### Customized
+
+* Auto Play Video when Visualable
+   *  class 에 "autoplayable" 적용
 
 ## 더 읽을 거리들
 
-   * THEME 커스텀하기: http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
+* THEME 커스텀하기: http://jihyeleee.com/blog/third-designer-can-make-jekyll-blog/
 
 ## 사용한 THEME
 
-   * prologue https://github.com/chrisbobbe/jekyll-theme-prologue
+* prologue https://github.com/chrisbobbe/jekyll-theme-prologue
+
