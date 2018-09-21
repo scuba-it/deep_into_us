@@ -4,13 +4,14 @@ title: RDP Table 읽기
 ---
 
 # PADI
+
 * https://www.youtube.com/watch?v=iRzxm0DBTAA
 * https://www.youtube.com/watch?v=rIdU76tOttQ
+
 # NAUI
+
 * https://www.garykessler.net/tutorial/DiveTableCalculator/NAUI_table.html
-
-
-https://www.unm.edu/~toolson/scuba/RDP_practice_problems_OW.htm
+* https://www.unm.edu/~toolson/scuba/RDP_practice_problems_OW.htm
 
 
 # References
