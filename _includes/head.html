@@ -17,6 +17,8 @@
   {%- assign _page_description = page.description | default: site.description | default: _page_title | escape -%}
 
   <title>{{- _page_title -}}</title>
+  <!-- Favicon head tag -->
+  <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon">
   <meta name="description" content="{{- _page_description -}}" />
   <meta name="author" content="{{- site.author -}}" />
   
